@@ -207,3 +207,11 @@ h4{
     font-size: 2rem;
     font-weight: bold;
 }
+
+a, a:visited {
+	color: #2897c8;
+}
+
+.site-link {
+	margin-left: 1rem;
+}
